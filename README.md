@@ -5,7 +5,6 @@
 - 💬 Ask me about 
 - 📫 How to reach me: sunayp16@gmail.com
 - ⚡ Fun fact: 👨‍💻
-<h1 align="center">Hey 👋What's Up?</h1>
 
 <h1 align="center">Hey 👋What's Up?</h1>
 

@@ -42,3 +42,39 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SUNAY-6&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/SUNAY-6/SUNAY-6/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SUNAY-6/SUNAY-6/pacman-output/puzzle-bobble-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SUNAY-6/SUNAY-6/pacman-output/puzzle-bobble-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SUNAY-6/SUNAY-6/pacman-output/puzzle-bobble-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SUNAY-6/SUNAY-6/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/SUNAY-6/SUNAY-6/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/SUNAY-6/SUNAY-6/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
